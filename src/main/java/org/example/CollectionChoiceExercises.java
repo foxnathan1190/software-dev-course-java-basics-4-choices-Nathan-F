@@ -21,6 +21,7 @@ public class CollectionChoiceExercises {
         String[] colors = new String[3];
     }
 
+
     public void MakeStudentCollection() {
         // Create an appropriate collection variable for holding a list of student names
         // that will be added to and removed from during program execution.
